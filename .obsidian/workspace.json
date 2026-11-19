@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "dc3ab8946d318e2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfba2465a8e8588b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09062df8e452babb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNIT 2 Refueling Guide.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UNIT 2 Refueling Guide"
+            }
+          },
+          {
+            "id": "8f5036375c26efa0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be395ca2d17b2064",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc70882672ecd826",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "551467982671774f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "2081c55e819ab133",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "438670fde932370d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df1555d20c306278",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce56403f7ac397aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f5ee3fc2ca68e8a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UNIT 2 Refueling Guide.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "fb242105a18ecb6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UNIT 2 Refueling Guide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "a4e7687e34412fde",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "587f346585f3aabb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "d27bee382d7d5443",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UNIT 2 Refueling Guide.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "09062df8e452babb",
+  "lastOpenFiles": [
+    "UNIT 2 Refueling Guide.md",
+    "README.md",
+    "git/Realistic-Boiling-Water-Reactor-Simulator-RBWR-Rus-Obsidian-Guides/README.md",
+    "git/Realistic-Boiling-Water-Reactor-Simulator-RBWR-Rus-Obsidian-Guides",
+    "git",
+    "Новая папка",
+    "_PDF/RBWR V2.1 RBMK Operations.pdf",
+    "_PDF/RBWR V2.1 Malfunctions & Leaks Guide.pdf",
+    "Plant Messaging System — PMS.md",
+    "UNIT 1 MCR.md",
+    "UNIT 1 Electrical Distribution.md",
+    "UNIT 1 RHR SDC.md",
+    "UNIT 1 Turbine Control.md",
+    "_PDF/~$WR V2.1 U1 MCR.pdf",
+    "UNIT 1 Deaerator.md",
+    "_resourses/Pasted image 20260918052706.png",
+    "_resourses/Pasted image 20260918052614.png",
+    "UNIT 1 ECCS.md",
+    "_resourses/Pasted image 20260918052447.png",
+    "_resourses/Pasted image 20260918052359.png",
+    "UNIT 1 Reactor Control.md",
+    "_resourses/Pasted image 20260918052237.png",
+    "UNIT 1 Reactor AUX.md",
+    "UNIT 2.md",
+    "_resourses/Pasted image 20260918052140.png",
+    "UNIT 1 Reactor Recirculation.md",
+    "_resourses/Pasted image 20260918052113.png",
+    "_resourses/Pasted image 20260918051937.png",
+    "UNIT 1 MCC AUX.md",
+    "UNIT 1 MCC.md",
+    "_resourses/Pasted image 20260918051812.png",
+    "_resourses/Pasted image 20260918051647.png",
+    "UNIT 2 CMCR.md",
+    "UNIT 2 EDG.md",
+    "RBWR V2.1 U1 MCR.md",
+    "UNIT 2 TCR.md",
+    "UNIT 1 Condenser.md",
+    "Без названия.base",
+    "_PDF/RBWR V2.1 U1 MCR.pdf",
+    "_PDF/RBWR V2 Refueling Guide.pdf",
+    "_PDF/~$WR V2 Refueling Guide.pdf",
+    "TEST.md",
+    "RBWR V2.1 TCR.md"
+  ]
+}
