@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4e2a7c614324cb4e",
+        "id": "8c9b825bbb9cec77",
         "type": "tabs",
         "children": [
           {
-            "id": "61912ee679c6a83d",
+            "id": "608ba708737003d1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "UNIT 1 MCR.md",
-                "bFile": "UNIT 1 MCR.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: UNIT 1 MCR  (Working Tree)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -196,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61912ee679c6a83d",
+  "active": "608ba708737003d1",
   "lastOpenFiles": [
+    "Сверка Unit 1 с PDF.md",
     "UNIT 2 TCR.md",
     "UNIT 2 Refueling Guide.md",
     "UNIT 2 EDG.md",
@@ -242,7 +239,6 @@
     "_PDF/RBWR V2.1 U1 MCR.pdf",
     "_PDF/RBWR V2 Refueling Guide.pdf",
     "_PDF/~$WR V2 Refueling Guide.pdf",
-    "TEST.md",
-    "RBWR V2.1 TCR.md"
+    "TEST.md"
   ]
 }
