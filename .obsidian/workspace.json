@@ -13,22 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIT 2 Refueling Guide.md",
+                "file": "UNIT 2 TCR.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UNIT 2 Refueling Guide"
-            }
-          },
-          {
-            "id": "8f5036375c26efa0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "UNIT 2 TCR"
             }
           }
         ]
@@ -109,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIT 2 Refueling Guide.md",
+                "file": "UNIT 2 TCR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -123,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIT 2 Refueling Guide.md",
+                "file": "UNIT 2 TCR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIT 2 Refueling Guide.md",
+                "file": "UNIT 2 TCR.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -179,9 +169,19 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
+          },
+          {
+            "id": "a5938d4f2e5a87e2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
