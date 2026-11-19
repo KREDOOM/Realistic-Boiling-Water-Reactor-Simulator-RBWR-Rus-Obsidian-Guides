@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIT 2 TCR.md",
+                "file": "Главная.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UNIT 2 TCR"
+              "title": "Главная"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNIT 2 TCR.md",
+                "file": "Главная.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNIT 2 TCR.md",
+                "file": "Главная.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNIT 2 TCR.md",
+                "file": "Главная.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,12 +199,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5938d4f2e5a87e2",
+  "active": "09062df8e452babb",
   "lastOpenFiles": [
+    "README.md",
+    "UNIT 1 Condenser.md",
+    "UNIT 1 Reactor AUX.md",
+    "UNIT 1 RHR SDC.md",
+    "UNIT 2 TCR.md",
     "План доработки.md",
     "Главная.md",
     "UNIT 2 Refueling Guide.md",
-    "README.md",
     "git/Realistic-Boiling-Water-Reactor-Simulator-RBWR-Rus-Obsidian-Guides/README.md",
     "git/Realistic-Boiling-Water-Reactor-Simulator-RBWR-Rus-Obsidian-Guides",
     "git",
@@ -214,7 +218,6 @@
     "Plant Messaging System — PMS.md",
     "UNIT 1 MCR.md",
     "UNIT 1 Electrical Distribution.md",
-    "UNIT 1 RHR SDC.md",
     "UNIT 1 Turbine Control.md",
     "_PDF/~$WR V2.1 U1 MCR.pdf",
     "UNIT 1 Deaerator.md",
@@ -225,7 +228,6 @@
     "_resourses/Pasted image 20260918052359.png",
     "UNIT 1 Reactor Control.md",
     "_resourses/Pasted image 20260918052237.png",
-    "UNIT 1 Reactor AUX.md",
     "UNIT 2.md",
     "_resourses/Pasted image 20260918052140.png",
     "UNIT 1 Reactor Recirculation.md",
@@ -238,8 +240,6 @@
     "UNIT 2 CMCR.md",
     "UNIT 2 EDG.md",
     "RBWR V2.1 U1 MCR.md",
-    "UNIT 2 TCR.md",
-    "UNIT 1 Condenser.md",
     "Без названия.base",
     "_PDF/RBWR V2.1 U1 MCR.pdf",
     "_PDF/RBWR V2 Refueling Guide.pdf",
