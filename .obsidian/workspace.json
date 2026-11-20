@@ -11,10 +11,14 @@
             "id": "608ba708737003d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "UNIT 1 ECCS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UNIT 1 ECCS"
             }
           }
         ]
@@ -194,6 +198,8 @@
   },
   "active": "608ba708737003d1",
   "lastOpenFiles": [
+    "Сверка Unit 2 TCR с PDF.md",
+    "Plant Messaging System — PMS.md",
     "Сверка Unit 1 с PDF.md",
     "UNIT 2 TCR.md",
     "UNIT 2 Refueling Guide.md",
@@ -212,7 +218,6 @@
     "UNIT 1 Deaerator.md",
     "UNIT 1 Condenser.md",
     "README.md",
-    "Plant Messaging System — PMS.md",
     "План доработки.md",
     "Главная.md",
     "_PDF.md",
@@ -238,7 +243,6 @@
     "Без названия.base",
     "_PDF/RBWR V2.1 U1 MCR.pdf",
     "_PDF/RBWR V2 Refueling Guide.pdf",
-    "_PDF/~$WR V2 Refueling Guide.pdf",
-    "TEST.md"
+    "_PDF/~$WR V2 Refueling Guide.pdf"
   ]
 }
