@@ -5,7 +5,7 @@ pdf_reviewed: 2026-11-19
 
 # 🎛️ Руководство оператора: Главная панель контура охлаждения реактора (MCC Manual)
 
-[[Главная|← Главная]] · [[UNIT 1 MCR|БЩУ-1]] · [[UNIT 1 MCC AUX|Уровни и CST]] · [[Сверка Unit 1 с PDF|Отчёт о сверке]]
+[[Главная|← Главная]] · [[UNIT 1 MCR|БЩУ-1]] · [[UNIT 1 MCC AUX|Уровни и CST]] · [[Malfunctions & Leaks|Диагностика и специальный ремонт]] · [[Сверка Unit 1 с PDF|Отчёт о сверке]]
 
 > [!INFO] Область применения и источники
 > **Unit 1, Classic.** Основа — [[_PDF/RBWR V2.1 U1 MCR.pdf#page=28|Unit 1 MCR Guide v3, с. 28–35]]. Диагностика дополнена по [[_PDF/RBWR V2.1 Malfunctions & Leaks Guide.pdf#page=5|Malfunctions & Leaks Guide v1, с. 5–6]].
