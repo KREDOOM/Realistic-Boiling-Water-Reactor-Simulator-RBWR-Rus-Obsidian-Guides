@@ -11,14 +11,14 @@
             "id": "608ba708737003d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "План доработки.md",
-                "mode": "source",
-                "source": false
+                "aFile": "План доработки.md",
+                "bFile": "План доработки.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "План доработки"
+              "icon": "diff",
+              "title": "Diff: План доработки  (Working Tree)"
             }
           }
         ]
@@ -198,6 +198,8 @@
   },
   "active": "608ba708737003d1",
   "lastOpenFiles": [
+    "План доработки.md",
+    "Главная.md",
     "UNIT 2 TCR.md",
     "UNIT 2 MCR.md",
     "Сверка Malfunctions & Leaks с PDF.md",
@@ -207,7 +209,6 @@
     "Malfunctions & Leaks.md",
     "Сверка Unit 2 MCR с PDF.md",
     "Сверка Unit 2 TCR с PDF.md",
-    "План доработки.md",
     "_resourses/U2 MCR - Turbine Control.png",
     "_resourses/U2 MCR - Tower Makeup.png",
     "_resourses/U2 MCR - Reactor Control.png",
@@ -234,7 +235,6 @@
     "UNIT 1 Deaerator.md",
     "UNIT 1 Condenser.md",
     "README.md",
-    "Главная.md",
     "git/Realistic-Boiling-Water-Reactor-Simulator-RBWR-Rus-Obsidian-Guides",
     "git",
     "Новая папка",
