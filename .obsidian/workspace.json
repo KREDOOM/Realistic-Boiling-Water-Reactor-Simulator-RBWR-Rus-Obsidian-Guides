@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сверка Unit 1 с PDF.md",
+                "file": "План доработки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сверка Unit 1 с PDF"
+              "title": "План доработки"
             }
           }
         ]
@@ -198,15 +198,24 @@
   },
   "active": "608ba708737003d1",
   "lastOpenFiles": [
+    "Сверка Unit 2 MCR с PDF.md",
+    "_resourses/U2 MCR - Turbine Control.png",
+    "_resourses/U2 MCR - Tower Makeup.png",
+    "_resourses/U2 MCR - Reactor Control.png",
+    "_resourses/U2 MCR - MCC setup.png",
+    "_resourses/U2 MCR - Electrical Distribution.png",
+    "_resourses/U2 MCR - ECCS.png",
+    "_resourses/U2 MCR - Deaerator instruments.png",
+    "UNIT 2 MCR.md",
+    "Сверка Unit 2 TCR с PDF.md",
+    "Сверка Unit 1 с PDF.md",
     "План доработки.md",
     "_PDF/RBWR V2.1 U1 MCR.pdf",
     "UNIT 1 Reactor Recirculation.md",
     "UNIT 1 Turbine Control.md",
     "UNIT 1 Reactor Control.md",
     "UNIT 1 ECCS.md",
-    "Сверка Unit 2 TCR с PDF.md",
     "Plant Messaging System — PMS.md",
-    "Сверка Unit 1 с PDF.md",
     "UNIT 2 TCR.md",
     "UNIT 2 Refueling Guide.md",
     "UNIT 2 EDG.md",
@@ -232,14 +241,6 @@
     "_resourses/Pasted image 20260918052706.png",
     "_resourses/Pasted image 20260918052614.png",
     "_resourses/Pasted image 20260918052447.png",
-    "_resourses/Pasted image 20260918052359.png",
-    "_resourses/Pasted image 20260918052237.png",
-    "UNIT 2.md",
-    "_resourses/Pasted image 20260918052140.png",
-    "_resourses/Pasted image 20260918052113.png",
-    "_resourses/Pasted image 20260918051937.png",
-    "_resourses/Pasted image 20260918051812.png",
-    "_resourses/Pasted image 20260918051647.png",
     "Без названия.base",
     "_PDF/RBWR V2 Refueling Guide.pdf",
     "_PDF/~$WR V2 Refueling Guide.pdf"
