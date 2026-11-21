@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIT 1 Reactor Recirculation.md",
+                "file": "План доработки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UNIT 1 Reactor Recirculation"
+              "title": "План доработки"
             }
           }
         ]
@@ -198,6 +198,8 @@
   },
   "active": "608ba708737003d1",
   "lastOpenFiles": [
+    "_PDF/RBWR V2.1 U1 MCR.pdf",
+    "UNIT 1 Reactor Recirculation.md",
     "UNIT 1 Turbine Control.md",
     "UNIT 1 Reactor Control.md",
     "UNIT 1 ECCS.md",
@@ -209,7 +211,6 @@
     "UNIT 2 EDG.md",
     "UNIT 2 CMCR.md",
     "UNIT 1 RHR SDC.md",
-    "UNIT 1 Reactor Recirculation.md",
     "UNIT 1 Reactor AUX.md",
     "UNIT 1 MCR.md",
     "UNIT 1 MCC AUX.md",
@@ -239,9 +240,7 @@
     "_resourses/Pasted image 20260918051937.png",
     "_resourses/Pasted image 20260918051812.png",
     "_resourses/Pasted image 20260918051647.png",
-    "RBWR V2.1 U1 MCR.md",
     "Без названия.base",
-    "_PDF/RBWR V2.1 U1 MCR.pdf",
     "_PDF/RBWR V2 Refueling Guide.pdf",
     "_PDF/~$WR V2 Refueling Guide.pdf"
   ]
