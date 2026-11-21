@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сверка Unit 2 MCR с PDF.md",
+                "file": "UNIT 2 MCR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сверка Unit 2 MCR с PDF"
+              "title": "UNIT 2 MCR"
             }
           }
         ]
@@ -198,9 +198,9 @@
   },
   "active": "608ba708737003d1",
   "lastOpenFiles": [
+    "Сверка Unit 2 MCR с PDF.md",
     "Сверка Unit 2 TCR с PDF.md",
     "План доработки.md",
-    "Сверка Unit 2 MCR с PDF.md",
     "_resourses/U2 MCR - Turbine Control.png",
     "_resourses/U2 MCR - Tower Makeup.png",
     "_resourses/U2 MCR - Reactor Control.png",
