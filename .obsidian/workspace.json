@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "План доработки.md",
+                "file": "Сверка Unit 2 MCR с PDF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "План доработки"
+              "title": "Сверка Unit 2 MCR с PDF"
             }
           }
         ]
@@ -198,6 +198,8 @@
   },
   "active": "608ba708737003d1",
   "lastOpenFiles": [
+    "Сверка Unit 2 TCR с PDF.md",
+    "План доработки.md",
     "Сверка Unit 2 MCR с PDF.md",
     "_resourses/U2 MCR - Turbine Control.png",
     "_resourses/U2 MCR - Tower Makeup.png",
@@ -207,9 +209,7 @@
     "_resourses/U2 MCR - ECCS.png",
     "_resourses/U2 MCR - Deaerator instruments.png",
     "UNIT 2 MCR.md",
-    "Сверка Unit 2 TCR с PDF.md",
     "Сверка Unit 1 с PDF.md",
-    "План доработки.md",
     "_PDF/RBWR V2.1 U1 MCR.pdf",
     "UNIT 1 Reactor Recirculation.md",
     "UNIT 1 Turbine Control.md",
