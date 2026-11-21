@@ -11,14 +11,14 @@
             "id": "608ba708737003d1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "План доработки.md",
-                "bFile": "План доработки.md",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: План доработки  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -198,24 +198,24 @@
   },
   "active": "608ba708737003d1",
   "lastOpenFiles": [
-    "План доработки.md",
-    "Главная.md",
     "UNIT 2 TCR.md",
-    "UNIT 2 MCR.md",
-    "Сверка Malfunctions & Leaks с PDF.md",
-    "_resourses/ML - U2 Rupture Disk valves.png",
-    "_resourses/ML - U2 Rupture Disk housing.png",
-    "_resourses/ML - U2 Oil Filter selection.png",
-    "Malfunctions & Leaks.md",
-    "Сверка Unit 2 MCR с PDF.md",
-    "Сверка Unit 2 TCR с PDF.md",
     "_resourses/U2 MCR - Turbine Control.png",
     "_resourses/U2 MCR - Tower Makeup.png",
     "_resourses/U2 MCR - Reactor Control.png",
     "_resourses/U2 MCR - MCC setup.png",
-    "_resourses/U2 MCR - Electrical Distribution.png",
-    "_resourses/U2 MCR - ECCS.png",
     "_resourses/U2 MCR - Deaerator instruments.png",
+    "_resourses/U2 MCR - ECCS.png",
+    "_resourses/Pasted image 20260918040317.png",
+    "_resourses/Pasted image 20260918040254.png",
+    "_resourses/ML - U2 Rupture Disk valves.png",
+    "_resourses/ML - U2 Rupture Disk housing.png",
+    "План доработки.md",
+    "Главная.md",
+    "UNIT 2 MCR.md",
+    "Сверка Malfunctions & Leaks с PDF.md",
+    "Malfunctions & Leaks.md",
+    "Сверка Unit 2 MCR с PDF.md",
+    "Сверка Unit 2 TCR с PDF.md",
     "Сверка Unit 1 с PDF.md",
     "_PDF/RBWR V2.1 U1 MCR.pdf",
     "UNIT 1 Reactor Recirculation.md",
@@ -234,7 +234,6 @@
     "UNIT 1 Electrical Distribution.md",
     "UNIT 1 Deaerator.md",
     "UNIT 1 Condenser.md",
-    "README.md",
     "git/Realistic-Boiling-Water-Reactor-Simulator-RBWR-Rus-Obsidian-Guides",
     "git",
     "Новая папка",
