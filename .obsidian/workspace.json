@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Plant Messaging System — PMS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Plant Messaging System — PMS"
             }
           }
         ]
@@ -198,6 +198,7 @@
   },
   "active": "608ba708737003d1",
   "lastOpenFiles": [
+    "README.md",
     "UNIT 2 TCR.md",
     "_resourses/U2 MCR - Turbine Control.png",
     "_resourses/U2 MCR - Tower Makeup.png",
